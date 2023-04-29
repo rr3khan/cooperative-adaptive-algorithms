@@ -1,8 +1,6 @@
 # Author Riyad Khan
 # ECE 457A Assignment 1 Question 3
 
-import matplotlib.pyplot as plt
-from matplotlib.colors import ListedColormap
 import mazeRunner
 
 
@@ -73,10 +71,7 @@ def main():
 
     # Set the value of the special tiles to a specific value for the special cost tiles
     for coordinate in special_tiles:
-        maze[coordinate[1]][coordinate[0]] = 2
-    custom_cmap = ListedColormap(["white", "black", "grey"])
-    plt.pcolormesh(maze, cmap=custom_cmap, edgecolors="k", linewidths=0.5)
-    plt.show()
+        maze[coordinate[1]][coordinate[0]] = mazeRunner.cell.SPECIAL
 
     a1S_start = [2, 11]
 
@@ -119,7 +114,6 @@ def main():
             randMaze4.randSearch()
         case _:
             print("Please enter an interger from 1 to 4 inclusive")
-
 
 if __name__ == "__main__":
     main()

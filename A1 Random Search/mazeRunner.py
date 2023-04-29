@@ -5,7 +5,19 @@
 from random import randint
 
 # Import matplotlib to help with visualization
-# from matplotlib import plt
+import matplotlib.pyplot as plt
+from matplotlib.colors import ListedColormap
+
+# enum for cells in grid
+from enum import IntEnum
+
+
+class cell(IntEnum):
+    EMPTY = 0
+    OCCUPIED = 1
+    SPECIAL = 2
+    PATH = 3
+
 
 class mazeRunner:
     def __init__(
@@ -235,3 +247,11 @@ class mazeRunner:
 
         if self.current_move_count == self.moves_limit:
             print("No goal found too bad, out of moves!")
+
+        # Visualize Path
+        for coordinate in self.path:
+            self.map[coordinate[1]][coordinate[0]] = cell.PATH
+
+        custom_cmap = ListedColormap(["white", "black", "grey", "red"])
+        plt.pcolormesh(self.map, cmap=custom_cmap, edgecolors="k", linewidths=0.5)
+        plt.show()
