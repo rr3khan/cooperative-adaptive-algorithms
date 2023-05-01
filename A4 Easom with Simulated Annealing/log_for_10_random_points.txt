@@ -1,0 +1,160 @@
+Initial Sol 1: -13 , 2 value: 7.1649497431198435e-115
+The annealing schedule of  linear  found a solution at:  -8 , 13 with value:  1.0027762832961718e-97
+Current sol x1: -8
+Current sol x2: 13
+Current sol f: 1.0027762832961718e-97
+Next solution x1:  44
+Next solution x2:  64
+Next sol f: -0.0
+Delta C:  28.921628261402276
+Iters per temp:  5
+Current temperature:  0.9000000000052127
+Current alpha:  0.1
+Accept: False
+Points checked: 8305
+Points accepted: 5823
+Points rejected:  2482
+Initial Sol 1: 50 , -89 value: -0.0
+The annealing schedule of  linear  found a solution at:  2 , -10 with value:  -9.413873179428423e-77
+Current sol x1: 2
+Current sol x2: -10
+Current sol f: -9.413873179428423e-77
+Next solution x1:  49
+Next solution x2:  -75
+Next sol f: -0.0
+Delta C:  47.860942122752874
+Iters per temp:  5
+Current temperature:  0.9000000000052127
+Current alpha:  0.1
+Accept: False
+Points checked: 8305
+Points accepted: 5728
+Points rejected:  2577
+Initial Sol 1: -60 , -27 value: -0.0
+The annealing schedule of  linear  found a solution at:  8 , 1 with value:  4.4926594608990167e-14
+Current sol x1: 8
+Current sol x2: 1
+Current sol f: 4.4926594608990167e-14
+Next solution x1:  -95
+Next solution x2:  97
+Next sol f: 0.0
+Delta C:  86.96054553394538
+Iters per temp:  5
+Current temperature:  0.9000000000052127
+Current alpha:  0.1
+Accept: False
+Points checked: 8305
+Points accepted: 5816
+Points rejected:  2489
+Initial Sol 1: -99 , 91 value: 0.0
+The annealing schedule of  linear  found a solution at:  9 , 9 with value:  -1.2834358102479482e-30
+Current sol x1: 9
+Current sol x2: 9
+Current sol f: -1.2834358102479482e-30
+Next solution x1:  25
+Next solution x2:  -15
+Next sol f: 0.0
+Delta C:  104.20116613925154
+Iters per temp:  5
+Current temperature:  0.9000000000052127
+Current alpha:  0.1
+Accept: False
+Points checked: 8305
+Points accepted: 5692
+Points rejected:  2613
+Initial Sol 1: -21 , -4 value: -1.9493130366489828e-276
+The annealing schedule of  linear  found a solution at:  6 , 4 with value:  8.497161002400583e-05
+Current sol x1: 6
+Current sol x2: 4
+Current sol f: 8.497161002400583e-05
+Next solution x1:  -5
+Next solution x2:  10
+Next sol f: 1.448519247177909e-50
+Delta C:  48.33424280858113
+Iters per temp:  5
+Current temperature:  0.9000000000052127
+Current alpha:  0.1
+Accept: False
+Points checked: 8305
+Points accepted: 5727
+Points rejected:  2578
+Initial Sol 1: -11 , 62 value: -0.0
+The annealing schedule of  linear  found a solution at:  4 , 0 with value:  1.618119857138129e-05
+Current sol x1: 4
+Current sol x2: 0
+Current sol f: 1.618119857138129e-05
+Next solution x1:  9
+Next solution x2:  58
+Next sol f: 0.0
+Delta C:  28.938516599898055
+Iters per temp:  5
+Current temperature:  0.9000000000052127
+Current alpha:  0.1
+Accept: False
+Points checked: 8305
+Points accepted: 5804
+Points rejected:  2501
+Initial Sol 1: 97 , -94 value: 0.0
+The annealing schedule of  linear  found a solution at:  -1 , 13 with value:  -1.0784477143501183e-50
+Current sol x1: -1
+Current sol x2: 13
+Current sol f: -1.0784477143501183e-50
+Next solution x1:  39
+Next solution x2:  -60
+Next sol f: 0.0
+Delta C:  34.1578026509808
+Iters per temp:  5
+Current temperature:  0.9000000000052127
+Current alpha:  0.1
+Accept: False
+Points checked: 8305
+Points accepted: 5749
+Points rejected:  2556
+Initial Sol 1: -72 , 7 value: 0.0
+The annealing schedule of  linear  found a solution at:  -1 , 8 with value:  1.5667441630016218e-19
+Current sol x1: -1
+Current sol x2: 8
+Current sol f: 1.5667441630016218e-19
+Next solution x1:  -41
+Next solution x2:  -38
+Next sol f: 0.0
+Delta C:  96.55596388519382
+Iters per temp:  5
+Current temperature:  0.9000000000052127
+Current alpha:  0.1
+Accept: False
+Points checked: 8305
+Points accepted: 5621
+Points rejected:  2684
+Initial Sol 1: 30 , -23 value: 0.0
+The annealing schedule of  linear  found a solution at:  -3 , 3 with value:  -3.9933159406214734e-17
+Current sol x1: -3
+Current sol x2: 3
+Current sol f: -3.9933159406214734e-17
+Next solution x1:  25
+Next solution x2:  41
+Next sol f: 0.0
+Delta C:  84.48240437054712
+Iters per temp:  5
+Current temperature:  0.9000000000052127
+Current alpha:  0.1
+Accept: False
+Points checked: 8305
+Points accepted: 5783
+Points rejected:  2522
+Initial Sol 1: 20 , 58 value: -0.0
+The annealing schedule of  linear  found a solution at:  3 , 4 with value:  -0.30356407658780027
+Current sol x1: 3
+Current sol x2: 4
+Current sol f: -0.30356407658780027
+Next solution x1:  -26
+Next solution x2:  -21
+Next sol f: 0.0
+Delta C:  50.553407907520175
+Iters per temp:  5
+Current temperature:  0.9000000000052127
+Current alpha:  0.1
+Accept: False
+Points checked: 8305
+Points accepted: 5755
+Points rejected:  2550
